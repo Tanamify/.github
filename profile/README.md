@@ -5,19 +5,10 @@ Tanamify: Sustainable Farming Solutions 🌱
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## About The Project
-
-<div align="center">
-  <img src="./Tanamify-Preview.png" alt="Tanamify" width="auto" height="auto"  style="border-radius:50%">    
-</div>
 <br />
 Tanamify is a mobile app using machine learning to optimize crop selection based on local soil and climate data.
 We understand the significant challenges farmers and communities face in assessing land suitability for farming, primarily due to limited knowledge of soil characteristics. This often leads to reliance on traditional planting methods, resulting in mismatches between soil types and the crops grown, ultimately lowering crop yields. 🌾 Additionally, local climate conditions play a crucial role in impacting agricultural productivity.
-<br /><br />
-At Tanamify, we are committed to addressing these challenges with a holistic approach: <br />
-🌟 Enhancing Crop Yields: By providing accurate data and recommendations, we help farmers maximize their harvests. <br />
-🌟 Minimizing Risks from Unsuitable Crops: Our solutions prevent crop failures by ensuring the right crops are planted in the right soil. <br />
-🌟 Aiding in Land Assessment: We offer precise land assessments to help farmers understand their land better. <br />
-🌟 Offering Tailored Crop Recommendations: Our recommendations consider both local climates and soil types, ensuring optimal crop growth. <br />
+<br />
 
 ## Team Behind Tanamify
 
